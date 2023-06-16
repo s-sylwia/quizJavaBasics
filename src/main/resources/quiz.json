@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the purpose of the 'final' keyword in Java?",
+    "a": "To define a constant value",
+    "b": "To prevent inheritance of a class",
+    "c": "To indicate that a method can be overridden",
+    "d": "To allocate memory for an object",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the difference between '== ' and '.equals()' when comparing objects in Java?",
+    "a": "'==' compares object references, while '.equals()' compares object values",
+    "b": "'==' compares object values, while '.equals()' compares object references",
+    "c": "'==' and '.equals()' are used interchangeably to compare objects",
+    "d": "There is no difference between '==' and '.equals()' in object comparison",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'static' keyword in Java?",
+    "a": "To define a variable that can be accessed by all instances of a class",
+    "b": "To define a method that can be called without creating an instance of a class",
+    "c": "To define a constant value",
+    "d": "To define a class that cannot be instantiated",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the difference between an abstract class and an interface in Java?",
+    "a": "An abstract class can have both abstract and non-abstract methods, while an interface can only have abstract methods (till Java 8)",
+    "b": "An interface can have both abstract and non-abstract methods, while an abstract class can only have abstract methods",
+    "c": "An abstract class can be instantiated, while an interface cannot be instantiated",
+    "d": "There is no difference between an abstract class and an interface",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'final' keyword in method declaration?",
+    "a": "To prevent the method from being overridden in a subclass",
+    "b": "To indicate that the method is static",
+    "c": "To indicate that the method throws an exception",
+    "d": "To allocate memory for an object",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the difference between checked and unchecked exceptions in Java?",
+    "a": "Checked exceptions must be handled or declared, while unchecked exceptions do not need to be handled or declared",
+    "b": "Unchecked exceptions must be handled or declared, while checked exceptions do not need to be handled or declared",
+    "c": "Checked exceptions occur at compile-time, while unchecked exceptions occur at runtime",
+    "d": "There is no difference between checked and unchecked exceptions",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in Java?",
+    "a": "To refer to the current instance of a class",
+    "b": "To create a new object",
+    "c": "To invoke a superclass constructor",
+    "d": "To define a variable that can be accessed by all instances of a class",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the difference between a class variable and an instance variable in Java?",
+    "a": "A class variable is shared among all instances of a class, while an instance variable is unique to each instance",
+    "b": "A class variable is declared with the 'static' keyword, while an instance variable is not",
+    "c": "A class variable can be accessed without creating an instance of a class, while an instance variable requires an instance to access",
+    "d": "There is no difference between a class variable and an instance variable",
+    "correctAnswer": "a"
+  },
+  {
+    "question": "What is the purpose of the 'super' keyword in Java?",
+    "a": "To refer to the current instance of a class",
+    "b": "To create a new object",
+    "c": "To invoke a superclass constructor",
+    "d": "To define a variable that can be accessed by all instances of a class",
+    "correctAnswer": "c"
+  },
+  {
+    "question": "What is the difference between 'String' and 'StringBuilder' in Java?",
+    "a": "'String' is immutable, while 'StringBuilder' is mutable",
+    "b": "'String' is mutable, while 'StringBuilder' is immutable",
+    "c": "'String' and 'StringBuilder' are both immutable",
+    "d": "'String' and 'StringBuilder' are both mutable",
+    "correctAnswer": "a"
+  }
+]
