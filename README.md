@@ -1,9 +1,5 @@
 # quizJavaBasics
-QuizJavaBasics is a Java program that allows users to take a quiz based on JSON-formatted questions, providing a command-line interface for a simple and interactive quiz experience
-
-# QuizJavaBasics
-
-This is a simple Java quiz program that reads quiz questions from a JSON file and allows users to play the quiz by providing answers. The program uses the Jackson library for JSON parsing.
+QuizJavaBasics is a simply Java program that allows users to take a quiz based on JSON-formatted questions, providing a command-line interface for a simple and interactive quiz experience. The program uses the Jackson library for JSON parsing.
 
 ## Table of Contents
 
